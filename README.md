@@ -2,8 +2,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
     <p><font style="font-size: 14pt" size="4"><b>Satellite Emitters
-          monitored in the 136 to 400</b></font> <font
-        style="font-size: 14pt" size="4"><b>MHz Band at the Netherlands.
+          monitored in VHF and UHF</b></font> <font
+        style="font-size: 14pt" size="4"><b> Bands at Europe.
           <br>
           <br>
         </b></font>Version : Jan 2022 <br>
